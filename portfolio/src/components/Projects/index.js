@@ -2,6 +2,7 @@ import React from 'react';
 import Project1Img from '../../assets/project1.jpg';
 import Project2Img from '../../assets/project2.png';
 
+
 const Projects = () => {
   return (
     <div name='projects' className='bg-[#006d77] w-full md:h-screen text-[#edf6f9]'>
