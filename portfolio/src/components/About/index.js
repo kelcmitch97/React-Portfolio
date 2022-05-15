@@ -1,4 +1,5 @@
 import React from 'react'
+import Avatar from '../../assets/portfolio.PNG'
 
 const About = () => {
   return (
@@ -13,11 +14,15 @@ const About = () => {
             </div>
             <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                 <div className='sm:text-right text-4xl font-bold'>
-                    <p>Hi, I'm Kelcie, nice to meet you. Please take a look around.</p>
+                    <img src={Avatar} style={{ width: '300px' }} className='rounded-full'></img>
                 </div>
-                <div>
-                    <p>asdkjhflaksdhfkjahsdlkjfhalksdhflaksjdhfk</p>
+                <div className='sm:text-right '>
+                    <p className='text-4xl font-bold pb-4 text-[#e29578]'>Hi, I'm Kelcie!</p>
+                    <p className='align-middle'>I am a full stack web developer looking to build and create a 
+                      better user experience on the web. I recently earned a certificate
+                      in full stack development from the University of Toronto Bootcamp, with newly developed skills in Javascript, Node.js, React.js and more. </p>
                 </div>
+
             </div>
       </div>
     </div>

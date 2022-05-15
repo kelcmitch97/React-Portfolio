@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import Logo from '../../assets/logo.png';
-import {FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook } from 'react-icons/fa';
-import {HiOutlineMail } from 'react-icons/hi'
+import {FaBars, FaTimes, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 import { Link } from 'react-scroll';
 
 const Nav = () => {
@@ -89,20 +88,20 @@ const Nav = () => {
         <ul>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a className='flex justify-between items-center w-full text-[#ffddd2]'
-            href='/'>
+            href='https://www.linkedin.com/in/kelciemitchelmore/' target="_blank" rel="noopener noreferrer">
               LinkedIn <FaLinkedin size={30}/>
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
             <a className='flex justify-between items-center w-full text-[#ffddd2]'
-            href='/'>
+            href='https://github.com/kelcmitch97' target="_blank" rel="noopener noreferrer">
               Github <FaGithub size={30}/>
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a className='flex justify-between items-center w-full text-[#ffddd2]'
-            href='/'>
-              Email <HiOutlineMail size={30}/>
+            href='https://twitter.com/?lang=en' target="_blank" rel="noopener noreferrer">
+              Twitter <FaTwitter size={30}/>
             </a>
           </li>
         </ul>
