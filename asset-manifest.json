@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.dae23895.css",
+    "main.js": "/React-Portfolio/static/js/main.3aa35c40.js",
+    "static/media/portfolio.PNG": "/React-Portfolio/static/media/portfolio.07499c2bec718547224f.PNG",
+    "static/media/project2.png": "/React-Portfolio/static/media/project2.9224183981b85bfc1848.png",
+    "static/media/project4.png": "/React-Portfolio/static/media/project4.b1eafae8373d185e0973.png",
+    "static/media/project5.png": "/React-Portfolio/static/media/project5.d77280eb984623fa79c6.png",
+    "static/media/project6.png": "/React-Portfolio/static/media/project6.72b901190b85a5758e5b.png",
+    "static/media/project3.png": "/React-Portfolio/static/media/project3.aa96945741dee41a7b4f.png",
+    "static/media/KelcieMitchelmore_Resume_2022.pdf": "/React-Portfolio/static/media/KelcieMitchelmore_Resume_2022.55ba2064720218283093.pdf",
+    "static/media/project1.jpg": "/React-Portfolio/static/media/project1.9de0a361ca8d79a7df17.jpg",
+    "static/media/logo.png": "/React-Portfolio/static/media/logo.7ed42caf1761f7568a18.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.dae23895.css.map": "/React-Portfolio/static/css/main.dae23895.css.map",
+    "main.3aa35c40.js.map": "/React-Portfolio/static/js/main.3aa35c40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae23895.css",
+    "static/js/main.3aa35c40.js"
+  ]
+}
