@@ -11,7 +11,8 @@ const Nav = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#006d77] text-[#edf6f9]'>
       <div>
-        <img src={Logo} alt='Logo' style={{ width: '50px' }} />
+        <h1>Kelcie Mitchelmore</h1>
+        {/* <img src={Logo} alt='Logo' style={{ width: '50px' }} /> */}
       </div>
 
       {/* NavBar */}
