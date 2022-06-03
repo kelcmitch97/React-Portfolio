@@ -26,7 +26,7 @@ This application is deployed with Github Pages.
 
 https://kelcmitch97.github.io/React-Portfolio/
 
-To see the Github page for this application, click [here](https://github.com/kelcmitch97/React-Portfolio)
+To see the Github page for this application, click [here](https://github.com/kelcmitch97/React-Portfolio/tree/main/portfolio)
 
 ## Questions
 

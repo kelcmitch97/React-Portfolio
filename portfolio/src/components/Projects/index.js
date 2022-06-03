@@ -5,6 +5,7 @@ import Project3Img from '../../assets/project3.png';
 import Project4Img from '../../assets/project4.png';
 import Project5Img from '../../assets/project5.png';
 import Project6Img from '../../assets/project6.png';
+import Project7Img from '../../assets/project7.jpg';
 
 
 const Projects = () => {
@@ -116,6 +117,24 @@ const Projects = () => {
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#e29578] font-bold text-lg'>Demo</button>
                         </a>
                         <a href="https://github.com/kelcmitch97/10-team-profile-generator" target='_blank'>
+                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#e29578] font-bold text-lg'>Code</button>
+                        </a>            
+                      </div>
+                  </div>
+              </div>
+
+              <div style={{backgroundImage: `url(${Project7Img})`}} className='shadow-lg shadow-[#144145] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                  
+                  {/* Hover */}
+                  <div className='opacity-0 group-hover:opacity-100'>
+                      <span className='text-2xl font-bold text-white tracking-wider '>
+                      MyAttic MERN Stack Project
+                      </span>
+                      <div className='pt-8 text-center'>
+                        <a href="https://myattic-therewillbecodetoo.herokuapp.com/" target='_blank'>
+                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#e29578] font-bold text-lg'>Demo</button>
+                        </a>
+                        <a href="https://github.com/kelcmitch97/myattic" target='_blank'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#e29578] font-bold text-lg'>Code</button>
                         </a>            
                       </div>
